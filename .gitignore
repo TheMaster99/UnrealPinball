@@ -1,7 +1,9 @@
+.gitignore
 Binaries
 DerivedDataCache
 Intermediate
 Saved
+*.opensdf
 *.sdf
 *.sln
 *.suo
