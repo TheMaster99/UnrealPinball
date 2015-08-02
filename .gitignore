@@ -5,5 +5,6 @@ Intermediate
 Saved
 *.opensdf
 *.sdf
+*.opensdf
 *.sln
 *.suo
